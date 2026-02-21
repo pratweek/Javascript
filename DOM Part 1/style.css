@@ -1,0 +1,20 @@
+#heading1 {
+    color: red;
+    background-color: blue;
+}
+.heading {
+    color: brown;
+}
+h3 {
+    color: yellow;
+    background-color: rebeccapurple;
+
+}
+body {
+    background-color: pink;
+}
+
+button {
+    background-color: salmon;
+    color: white;
+}
